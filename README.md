@@ -1,4 +1,4 @@
-# CSCI526-Cinnamoroll
+# Penguin's Adventure
 
 https://github.com/honghulu/Penguin-Adventure/assets/135955524/d5559fff-4872-4815-a560-1318fd295b72
 
